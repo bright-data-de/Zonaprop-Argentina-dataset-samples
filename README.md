@@ -1,74 +1,74 @@
 # Zonaprop Argentina Properties Dataset Sample
 
-<h2>A sample dataset of 1,775 records</h2>
+<h2>Ein Beispiel-Datensatz mit 1.775 Datensätzen</h2>
 
-<a href="https://brightdata.com">
+<a href="https://brightdata.de">
     <img src="https://github.com/luminati-io/Zonaprop-Argentina-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
 </a>
 
-This **Zonaprop Argentina Properties Dataset Sample** includes **1,775 records** and was extracted using the **Bright Data API**.
+Dieses **Zonaprop Argentina Properties Dataset Sample** umfasst **1.775 Datensätze** und wurde mithilfe der **Bright Data API** extrahiert.
 
 ## Data Points
 
 | Field Name | Description |
 |------------|-------------|
-| `url` | The direct URL to the property listing on Zonaprop. |
-| `Title` | The title of the property listing as provided by the seller. |
-| `generatedTitle` | The automatically generated title of the property listing. |
-| `Imagenes` | A list of URLs pointing to images of the property. |
-| `Numero_de_imagenes` | The number of images available for the property listing. |
-| `Description` | A detailed description of the property, including features and amenities. |
-| `Precio` | The listed price of the property. |
-| `Currency` | The currency in which the property's price is listed. |
-| `Fecha_de_publicacion` | The publication date of the property listing. |
-| `Visualizaciones` | The number of views the property listing has received. |
-| `Dimension_terreno` | The land size of the property in square meters. |
-| `Dimension_propiedad` | The size of the property itself in square meters. |
-| `Ambientes` | The number of rooms or environments in the property. |
-| `Banos` | The number of bathrooms available in the property. |
-| `Dormitorios` | The number of bedrooms in the property. |
-| `Tipo` | The type of property, such as apartment, house, or land. |
-| `Nueva_usada` | Indicates whether the property is new or used. |
-| `Tipovendedor` | The type of seller, such as an owner or real estate agency. |
-| `Seller_name` | The name of the seller or real estate agency listing the property. |
-| `Seller_ID` | A unique identifier for the seller or real estate agency. |
-| `Seller_url` | The URL to the seller or agency's profile on Zonaprop. |
-| `Phone1` | Primary contact phone number for the seller or agency. |
-| `Phone2` | Secondary contact phone number for the seller or agency. |
-| `Operacion` | The type of operation, such as sale or rent. |
-| `Zona` | The primary zone or area where the property is located. |
-| `Zona2` | A secondary zone or more specific area of the property's location. |
-| `Zona3` | Additional location information for the property. |
-| `developmentFeatures` | Features and amenities related to property development. |
-| `Superdestacado` | Indicates if the property is a highlighted listing. |
-| `Premium_label` | A label indicating if the property has premium features. |
-| `posting_id` | A unique identifier for the property listing. |
-| `proveedor_tour` | Provider of virtual tours for the property, if available. |
-| `estatus` | The current status of the property listing. |
-| `latitude` | The latitude coordinate of the property's location. |
-| `longitude` | The longitude coordinate of the property's location. |
-| `address` | The full address of the property. |
-| `seller_level` | The level or rating of the seller or agency. |
-| `expenses` | Associated expenses or fees related to the property. |
+| `url` | Die direkte URL zum Immobilieninserat auf Zonaprop. |
+| `Title` | Der Titel des Immobilieninserats, wie vom Verkäufer bereitgestellt. |
+| `generatedTitle` | Der automatisch generierte Titel des Immobilieninserats. |
+| `Imagenes` | Eine Liste von URLs, die auf Bilder der Immobilie verweisen. |
+| `Numero_de_imagenes` | Die Anzahl der für das Immobilieninserat verfügbaren Bilder. |
+| `Description` | Eine detaillierte Beschreibung der Immobilie, einschließlich Merkmalen und Ausstattungen. |
+| `Precio` | Der ausgeschriebene Preis der Immobilie. |
+| `Currency` | Die Währung, in der der Preis der Immobilie angegeben ist. |
+| `Fecha_de_publicacion` | Das Veröffentlichungsdatum des Immobilieninserats. |
+| `Visualizaciones` | Die Anzahl der Aufrufe, die das Immobilieninserat erhalten hat. |
+| `Dimension_terreno` | Die Grundstücksgröße der Immobilie in Quadratmetern. |
+| `Dimension_propiedad` | Die Größe der Immobilie selbst in Quadratmetern. |
+| `Ambientes` | Die Anzahl der Zimmer oder Bereiche in der Immobilie. |
+| `Banos` | Die Anzahl der in der Immobilie verfügbaren Badezimmer. |
+| `Dormitorios` | Die Anzahl der Schlafzimmer in der Immobilie. |
+| `Tipo` | Der Immobilientyp, z. B. Wohnung, Haus oder Grundstück. |
+| `Nueva_usada` | Gibt an, ob die Immobilie neu oder gebraucht ist. |
+| `Tipovendedor` | Der Verkäufertyp, z. B. Eigentümer oder Immobilienagentur. |
+| `Seller_name` | Der Name des Verkäufers oder der Immobilienagentur, die die Immobilie anbietet. |
+| `Seller_ID` | Eine eindeutige Kennung für den Verkäufer oder die Immobilienagentur. |
+| `Seller_url` | Die URL zum Profil des Verkäufers oder der Agentur auf Zonaprop. |
+| `Phone1` | Primäre Kontakttelefonnummer für den Verkäufer oder die Agentur. |
+| `Phone2` | Sekundäre Kontakttelefonnummer für den Verkäufer oder die Agentur. |
+| `Operacion` | Die Art der Transaktion, z. B. Verkauf oder Miete. |
+| `Zona` | Die primäre Zone oder das Gebiet, in dem sich die Immobilie befindet. |
+| `Zona2` | Eine sekundäre Zone oder ein spezifischeres Gebiet des Standorts der Immobilie. |
+| `Zona3` | Zusätzliche Standortinformationen zur Immobilie. |
+| `developmentFeatures` | Merkmale und Ausstattungen im Zusammenhang mit der Immobilienentwicklung. |
+| `Superdestacado` | Gibt an, ob es sich um ein hervorgehobenes Inserat handelt. |
+| `Premium_label` | Ein Label, das anzeigt, ob die Immobilie Premium-Merkmale aufweist. |
+| `posting_id` | Eine eindeutige Kennung für das Immobilieninserat. |
+| `proveedor_tour` | Anbieter von virtuellen Touren für die Immobilie, falls verfügbar. |
+| `estatus` | Der aktuelle Status des Immobilieninserats. |
+| `latitude` | Die geografische Breitenkoordinate des Standorts der Immobilie. |
+| `longitude` | Die geografische Längenkoordinate des Standorts der Immobilie. |
+| `address` | Die vollständige Adresse der Immobilie. |
+| `seller_level` | Das Level oder die Bewertung des Verkäufers oder der Agentur. |
+| `expenses` | Zugehörige Ausgaben oder Gebühren im Zusammenhang mit der Immobilie. |
 
 
 ## Use Cases
 
-### 1. Real Estate Market Analysis
-Utilize this dataset to analyze trends in the Argentine real estate market, understanding pricing dynamics and property availability.
+### 1. Analyse des Immobilienmarkts
+Nutzen Sie diesen Datensatz, um Trends im argentinischen Immobilienmarkt zu analysieren und die Preisdynamik sowie die Verfügbarkeit von Immobilien zu verstehen.
 
-### 2. Investment Opportunity Identification
-Identify potential investment opportunities by examining property characteristics and pricing in different zones across Argentina.
+### 2. Identifizierung von Investitionsmöglichkeiten
+Identifizieren Sie potenzielle Investitionsmöglichkeiten, indem Sie Immobilienmerkmale und Preise in verschiedenen Zonen Argentiniens untersuchen.
 
-### 3. Competitive Analysis for Real Estate Agencies
-Real estate agencies can leverage this data to analyze competitor listings, enhancing their strategic positioning in the market.
+### 3. Wettbewerbsanalyse für Immobilienagenturen
+Immobilienagenturen können diese Daten nutzen, um Inserate von Wettbewerbern zu analysieren und ihre strategische Positionierung am Markt zu verbessern.
 
 
 
 ## File Formats
 
-The dataset is available in multiple formats:
-- **CSV** (included in this sample)
+Der Datensatz ist in mehreren Formaten verfügbar:
+- **CSV** (in diesem Sample enthalten)
 - **JSON**
 - **NDJSON**
 - **JSON Lines**
@@ -88,8 +88,8 @@ The dataset is available in multiple formats:
 
 ## Update Frequency
 
-Datasets can be updated on various schedules:
-- **Once** (one-time delivery)
+Datensätze können nach verschiedenen Zeitplänen aktualisiert werden:
+- **Once** (einmalige Bereitstellung)
 - **Daily**
 - **Weekly**
 - **Monthly**
@@ -98,14 +98,14 @@ Datasets can be updated on various schedules:
 
 ## Data Enrichment
 
-Enhance your dataset with additional data points based on your specific requirements. Contact us for custom enrichment options.
+Erweitern Sie Ihren Datensatz anhand Ihrer spezifischen Anforderungen um zusätzliche Datenpunkte. Kontaktieren Sie uns für maßgeschneiderte Enrichment-Optionen.
 
-**[Get the full Zonaprop Argentina Properties dataset](https://brightdata.com/products/datasets/real-estate)**
+**[Get the full Zonaprop Argentina Properties dataset](https://brightdata.de/products/datasets/real-estate)**
 
 ---
 
 ## Free Access for Researchers and NGOs
 
-The Bright Initiative offers free access to **[Web Scraper APIs](https://brightdata.com/products/web-scraper)** and **[ready-to-use datasets](https://brightdata.com/products/datasets)** for academic researchers, NGOs, and NPOs working on environmental and social causes. 
+Die Bright Initiative bietet akademischen Forschenden, NGOs und NPOs, die an Umwelt- und Sozialthemen arbeiten, kostenlosen Zugriff auf **[Web Scraper APIs](https://brightdata.de/products/web-scraper)** und **[ready-to-use datasets](https://brightdata.de/products/datasets)**. 
 
-Apply for free access at [brightinitiative.com](https://brightinitiative.com).
+Beantragen Sie kostenlosen Zugriff unter [brightinitiative.com](https://brightinitiative.com).
